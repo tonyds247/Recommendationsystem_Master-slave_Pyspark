@@ -1,6 +1,6 @@
 # Recommendationsystem_Master-slave_Pyspark
 
-Here's an example of how to deploy PySpark for cluster processing:
+Here's an example of deploying PySpark for cluster processing:
 
 First, install and configure PySpark on your local machine.
 
